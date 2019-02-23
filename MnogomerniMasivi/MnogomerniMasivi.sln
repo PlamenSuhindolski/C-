@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fill the matrix", "MnogomerniMasivi\Fill the matrix.csproj", "{F722ECEF-73CD-4C17-B83B-0E32582E7EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{3E884702-853C-4AE9-9CEC-0EB8C7CC7AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceMatrix", "SequenceMatrix\SequenceMatrix.csproj", "{30557DFE-DF3B-43CF-8B2E-6BE2AFA28B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F722ECEF-73CD-4C17-B83B-0E32582E7EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F722ECEF-73CD-4C17-B83B-0E32582E7EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F722ECEF-73CD-4C17-B83B-0E32582E7EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F722ECEF-73CD-4C17-B83B-0E32582E7EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E884702-853C-4AE9-9CEC-0EB8C7CC7AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E884702-853C-4AE9-9CEC-0EB8C7CC7AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E884702-853C-4AE9-9CEC-0EB8C7CC7AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E884702-853C-4AE9-9CEC-0EB8C7CC7AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30557DFE-DF3B-43CF-8B2E-6BE2AFA28B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30557DFE-DF3B-43CF-8B2E-6BE2AFA28B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30557DFE-DF3B-43CF-8B2E-6BE2AFA28B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30557DFE-DF3B-43CF-8B2E-6BE2AFA28B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
